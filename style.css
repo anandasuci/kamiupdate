@@ -1,0 +1,12 @@
+ul li a{
+  color: black;
+}
+.rounded{
+  display: flex;
+  overflow: hidden;
+  position: relative;
+}
+.rounded:hover{
+  transform: scale(1.1);
+  transition: all.3s ease-out;
+}
